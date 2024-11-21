@@ -1,0 +1,11 @@
+def num_players():
+    players = input('How many players are playing?(1-2 players max): ')
+    for num in players:
+        name = input('What is your name? ')
+def pick_trivia():
+    
+def earth_triva():
+def sky_trivia():
+def ocean_triva():
+def point_system():
+def main():
