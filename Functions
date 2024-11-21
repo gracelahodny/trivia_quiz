@@ -3,9 +3,14 @@ def num_players():
     for num in players:
         name = input('What is your name? ')
 def pick_trivia():
-    
+    print('There is three types of trivia: Ocean Triva, Earth Triva, or Space Triva.')
+    triva  = input('Which Trivia would you like to play? ')
 def earth_triva():
+
 def sky_trivia():
+
 def ocean_triva():
+
 def point_system():
+
 def main():
