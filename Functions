@@ -6,11 +6,16 @@ def pick_trivia():
     print('There is three types of trivia: Ocean Triva, Earth Triva, or Space Triva.')
     triva  = input('Which Trivia would you like to play? ')
 def earth_triva():
+    pass
 
 def sky_trivia():
+    pass
 
 def ocean_triva():
+    pass
 
 def point_system():
+    pass
 
 def main():
+    pass
